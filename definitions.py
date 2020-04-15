@@ -66,7 +66,7 @@ class CAMERAS:
     SIM_FRONT_CAM_1_ID = 0
 
     # SERVER XAVIER CAMERAS
-    FRONT_CAMERA_DEVNAME = "/dev/camera_c922_1"
+    FRONT_CAMERA_DEVNAME = 0
     BOTTOM_CAMERA_DEVNAME = "/dev/camera_hdpc_1"
 
     
